@@ -299,7 +299,6 @@ section {
   width: 400px;
   height: auto;
   background: white;
-  padding: 0.75em;
   border-radius: 6px;
 }
 
@@ -309,7 +308,7 @@ section {
   height: 250px;
   border-radius: 6px 6px 0 0;
   transition: all 0.42s;
-  padding-bottom: 1em;
+  margin-bottom: 10px;
 }
 
 .card-image img {
